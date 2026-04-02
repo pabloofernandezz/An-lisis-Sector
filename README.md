@@ -13,4 +13,7 @@ El objetivo de este script es procesar datos financieros y generar un ranking ba
 
 ## 📂 Contenido del Repositorio
 * `Análisis_Sector.ipynb`: Código principal del motor cuantitativo.
-* `Memoria_Proyecto.pdf`: Documentación detallada con las tesis de inversión y conclusiones.
+
+## En Linkedin puedes acceder al análisis completo
+https://www.linkedin.com/in/pablo-fern%C3%A1ndez-de-vicente-512688237/
+https://www.linkedin.com/in/juan-jos%C3%A9-g%C3%B3mez-barandica/
