@@ -1,2 +1,3 @@
-# An-lisis-Sector
-Ejecutando este script podrás ver rápidamente los datos más relevantes del sector que te interese en cuestión de segundos
+# Análisis-Sector
+Ejecutando este script podrás ver rápidamente los datos más relevantes del sector que te interese en cuestión de segundos. 
+No es una recomendación de inversión pero permite conocer los principales de cada sector.
